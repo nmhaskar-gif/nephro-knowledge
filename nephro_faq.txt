@@ -1,0 +1,508 @@
+
+This is the Dayton Kidney educational FAQ.
+The way we measure kidney function is through a blood test called the creatinine level. The kidney function generally has nothing to do with how much urine you make or the color of your urine. Creatinine is a breakdown product of muscle that happens naturally. Generally speaking, a normal creatinine (normal kidney function) is 1 or below. People who need dialysis usually have creatinines in the 5 or higher range (again, this is generally speaking, your individual situation may vary). Creatinines do fluctuate, so kidney doctors often look at trends over time. Once a creatinine is measured by the blood test, that value is put into a mathematical equation that produces another number, called the eGFR, or estimate glomerular filtration rate. This is roughly speaking a percentage of your kidney function. Your kidney doctor however will be able to explain your numbers for your particular situation. 
+As expected, the creatinine number and eGFR number will always correspond to each other since the eGFR is based on the creatinine level. So the higher the creatinine, the lower the eGFR. 
+There are situations where the creatinine can change or be higher or lower than expected. In these situations, the eGFR may not be accurate. Always discuss your blood tests with your kidney doctor, and they can also explain how your numbers translate to the stages of chronic kidney disease. 
+
+Diet recommendations for non-dialysis CKD: 
+INTRODUCTION
+
+Chronic kidney disease (CKD) is common in the United States and worldwide. CKD patients have a higher mortality than the general population [1]. Mortality is related in part to the progression of kidney disease and its complications, such as cardiovascular disease (CVD) and protein-energy wasting.
+
+Dietary factors may have an effect on the progression of kidney disease and its complications. Among CKD patients, overnutrition results in sodium and volume overload, hyperkalemia, hyperphosphatemia, and accumulation of toxic metabolites of protein degradation. Undernutrition, on the other hand, exacerbates the risk for malnutrition and wasting.
+
+Appropriate dietary interventions may have an effect on clinical outcomes in the CKD population. However, the optimal approach to nutrition is not known with certainty, and clinical trials have yielded conflicting results.
+
+This topic review provides recommendations for nutrition for predialysis CKD patients. Recommendations for nutrition in the general public are discussed elsewhere. (See "Dietary assessment in adults" and "Nutritional issues in older adults".)
+
+The approach to nutrition in dialysis patients is discussed elsewhere. (See "Assessment of nutritional status in patients on hemodialysis" and "Malnutrition and protein intake in patients on peritoneal dialysis".)
+
+OVERVIEW
+
+Dietary approaches to stop hypertension (DASH) eating plan
+Figure 1
+The optimal diet for individual CKD patients varies depending upon the estimated glomerular filtration rate (eGFR), type of kidney disease (ie, proteinuric or nonproteinuric), and the presence of other comorbidities such as diabetes, hypertension, or heart failure. For most CKD patients, the optimal diet is one similar to the Dietary Approaches to Stop Hypertension (DASH) diet, which is low in sodium content and rich in fruits, vegetables, legumes, fish, poultry, and whole grains (figure 1) (see "Diet in the treatment and prevention of hypertension", section on 'Dietary Approaches to Stop Hypertension (DASH) diet'). For patients with nondialysis CKD, adherence to a DASH-style diet [2] or a plant-based diet [3] is associated with improved survival.
+
+However, among many patients, the diet needs to be modified further depending on specific laboratory values including serum potassium or serum phosphorus.
+
+We do not suggest any dietary modification for patients with eGFR ≥60 mL/min/1.73 m2. Such patients should follow the same dietary recommendations as for the general population. (See "Healthy diet in adults".)
+
+Nutritional recommendations for adults with nondialysis chronic kidney disease
+Table 1
+We suggest the following dietary guidelines for most patients with eGFR <60 mL/min/1.73 m2 who are not on dialysis (table 1):
+
+●A daily protein intake of approximately 0.8 g/kg. We do not recommend very low protein intake (<0.6 g/kg/day).
+
+●A diet rich in vegetables.
+
+●The sodium intake varies depending on individual patient clinical features. Among individuals who are hypertensive, volume overloaded, or proteinuric, we suggest a sodium intake of <2 g/day (ie, 5 g/day of salt [NaCl]).
+
+For patients who are not hypertensive, volume overloaded, or proteinuric, sodium restriction to 2.3 g/day (5.75 g/day of salt [NaCl]) may be of benefit. There are no convincing studies of the general population that have proven that lowering sodium intake to <2.3 g/day lowers cardiovascular outcomes or all-cause mortality. The Institute of Medicine has concluded that there is insufficient evidence to recommend a different sodium intake for CKD patients as compared with the general United States population [4].
+
+●The potassium intake should be guided by serum potassium levels. If the potassium concentration is normal, we do not restrict dietary potassium. When used for patients with elevated serum potassium levels, potassium restriction should focus on limiting the intake of lower-nutritional value foods such as potato chips, fruit juices, and chocolate rather than healthy food choices such as fruits and vegetables. (See "Treatment and prevention of hyperkalemia in adults", section on 'Prevention' and "Patient education: Low-potassium diet (Beyond the Basics)", section on 'How do I cut down on potassium?'.)
+
+●We limit total calcium intake (both dietary and medication sources) to approximately 1000 mg/day. Some clinicians target a more liberal total calcium intake of ≤1500 mg/day.
+
+●We do not restrict dietary phosphorus intake in patients with CKD who have normal serum levels of phosphorus and parathyroid hormone (PTH). Among patients with elevated levels of serum phosphorus or PTH, we restrict dietary phosphorus intake to 0.8 to 1 g/day. The dietary phosphorus should be derived from sources of high biologic value, such as meats and eggs.
+
+●Maximum caloric intake of 25 to 35 kcal/kg/day.
+
+●Maximum fat intake <30 percent of daily energy intake, with saturated fat limited to <10 percent energy.
+
+●Daily dietary fiber intake of approximately 25 to 34 g/day.
+
+These recommendations, along with supporting studies, are individually discussed below.
+
+PROTEIN INTAKE
+
+Non-nephrotic patients — For patients with estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m2 who do not have nephrotic syndrome, we suggest restricting daily protein intake to approximately 0.8 g/kg. Nutritional studies in patients with reduced eGFR suggest that protein intake can be safely lowered to 0.6 g/kg/day [5-9] although a very low-protein diet has been associated with increased mortality over the long term [10]. A modest restriction is generally well tolerated and does not lead to malnutrition in patients with CKD, and metabolic acidosis is avoided.
+
+Most clinical guidelines, including Kidney Disease: Improving Global Outcomes (KDIGO) and the National Kidney Foundation Kidney Disease Outcomes Quality Initiative (KDOQI), suggest restriction of protein intake for CKD patients [11,12].
+
+Studies that have examined protein restriction have yielded inconsistent results [13-19].
+
+Many early studies suggested that protein restriction may slow progression of CKD [18,20-25] although subsequent rigorous studies suggest that the benefit is modest [10,15,18,19,25-31]. The largest trial to date, the Modification of Diet in Renal Disease (MDRD) study, analyzed 585 patients with nondiabetic CKD and a mean GFR of 39 mL/min/1.73 m2 (all patients with GFR <55 mL/min/1.73 m2) [28]. Patients were randomly assigned to protein intakes of 1.3 or 0.58 g/kg/day with or without aggressive blood pressure (BP) control and followed for a mean of 2.2 years. The mean achieved protein intake was 1.11 g/kg/day for the usual-protein-diet group and 0.77 g/kg/day (approximately 45 to 60 g/day) for the low-protein-diet group [14]. This level of protein intake is substantially below the average protein intake in the United States of 90 to 100 g/day.
+
+Despite good adherence, initially, there appeared to be little overall benefit with the low-protein diet. A biphasic response was noted: Patients treated with protein restriction had a greater fall in GFR (measured by iothalamate clearance) in the first four months (that may have reflected a reduction in intraglomerular pressure), followed by somewhat slower progression over the ensuing months (2.8 versus 3.9 mL/min/year) (figure 2). Interpretation of the MDRD trial is somewhat limited by this since the trial design did not account for this two-slope change in GFR in the moderate-protein-intake group. However, even in the later phase, the absolute benefit was approximately 1.1 mL/min/year. A similar lack of substantial benefit was noted in a second part of this study involving 255 patients with more advanced disease (mean GFR 19 mL/min/1.73 m2) who were randomly assigned to a low-protein diet (0.58 g/kg/day) or a very low-protein diet (0.3 g/kg/day) with a keto acid-amino acid supplement.
+
+Other limitations to the trial are that it included very few diabetic patients (patients with insulin-requiring diabetes were excluded) and the rate of decline in GFR in the intervention and control groups was slower than expected, which may have resulted in decreased power to discern potential benefit. As the curves diverged at the end of the study, there is a possibility that longer-term follow-up of these patients would have revealed a slower progression in the moderate-protein-intake group.
+
+A benefit of moderate protein restriction was suggested by a long-term follow-up analysis of the MDRD study, which was performed by linking the MDRD study to national registries [29]. In this 12-year study (1989 to 2000), the authors evaluated outcomes during the first six years after the trial ended (1989 to 1994), the next six-year period (1995 to 2000), and the total 12-year period. Analysis of outcomes after the first six years revealed a significant benefit of low-protein intake on kidney failure and all-cause mortality (hazard ratios [HRs] 0.68, CI 0.51-0.93 and 0.66, CI 0.50-0.87, respectively). However, there was no benefit of protein restriction when outcomes between 6 and 12 years were analyzed, but protein intake data were not available following the completion of the randomized study phase. Thus, it is possible that the early beneficial effects in the first six years dissipated after six years because the study participants were no longer on the intervention.
+
+These data suggest the need for a longer follow-up period for future studies designed to assess the effects of protein restriction intervention. In the MDRD study, the average rate of GFR decline was 4 mL/min/1.73 m2 per year during the mean duration of 2.2 years, and relatively few patients developed kidney failure during this period. It is possible that the study duration was too short to fully appreciate the effect of protein restriction.
+
+Since the initial MDRD report in 1994, several secondary analyses of the MDRD study, as well as other meta-analyses and controlled trials, have been published [13,14]. Systematic reviews suggest that protein restriction may be beneficial [32-36]. As an example, a Cochrane review limited to studies that used kidney death as an outcome measure (n = 10) demonstrated a protective effect of protein restriction despite heterogeneity among studies [32]. Kidney death in this review was defined as the need for starting dialysis, the death of the patient, or a kidney transplant. This analysis suggested that protein restriction decreases the number of patients reaching the defined outcome by approximately 32 percent. This equates to treating 2 to 56 patients with a low-protein diet to avoid one kidney death.
+
+Overall, most experts believe that, despite the absence of observed benefit in the MDRD trial, the balance of evidence suggests a benefit of moderate dietary protein restriction [13,14]. Some of the MDRD investigators have proposed that the seemingly small benefit from protein restriction may be clinically important [14]. According to this reasoning, a patient with a GFR of 40 mL/min who is losing 4 mL/min per year will require dialysis in approximately eight years. However, if the rate of fall were only 3 mL/min per year, then 11 years would be required to reach the same endpoint. Thus, the absolute benefit would be three years without dialysis.
+
+In addition, protein restriction may be particularly effective in diseases characterized by hyperfiltration, such as diabetes and certain glomerulopathies [18,23,24], although one study has suggested that the effects of protein restriction in advanced kidney disease due to polycystic kidney are similar to that due to other causes [14]. Polycystic kidney disease (PKD) is not characterized by hyperfiltration and tends to have a very different rate of progression compared with diabetic and other glomerulopathies.
+
+Limiting protein intake is also associated with favorable laboratory and metabolic effects, including reduction of blood urea nitrogen levels, uremic toxins, and acid load, in addition to reduced phosphorus load with better control of metabolic bone disorders [37]. A modest protein restriction to 0.6 to 0.8 g/kg/day appears to be safe. The safety profile of a modest protein restriction was assessed in an analysis of patients who were enrolled in the MDRD study [6]. Patients were randomly assigned to a standard-protein diet (1.3 g/kg/day), a low-protein diet (0.58 g/kg/day), or a very low-protein diet (0.3 g/kg/day supplemented with a ketoacid-amino acid mixture at 0.28 g/kg/day) based upon their GFR. Patients assigned to the low-protein diet achieved a protein intake between 0.6 to 0.8 g/kg/day. Patients assigned to the very low-protein diet achieved a protein intake between 0.4 to 0.8 g/kg/day.
+
+At a mean follow-up of 2.2 years, a low-protein intake was not associated with increased rates of mortality, hospitalization, or malnutrition.
+
+We do not recommend very low-protein intake (<0.6 g/kg/day) in CKD patients due to the safety concerns. Significant health risks are associated with more severe restrictions over the long term. The MDRD study tested the effects of low-protein diet (0.58 g/kg/day) or a very low-protein diet (0.28 g/kg/day) with a keto acid-amino acid supplement in those with GFR between 13 to 24 mL/min/1.73 m2 on death/end-stage kidney disease (ESKD) outcome. While there were no statistically significant differences between the two groups during the trial, a longer-term, postintervention, observational follow-up showed a higher risk of death in those assigned to the very low-protein group (HR 1.92, 95% CI 1.15-3.20) [10].
+
+An important limitation of these long-term observations is that measurements of protein intake or nutritional measurements were not performed beyond nine months after the original MDRD study ended; the number of patients that continued the prescribed diet is not known [38]. Despite this limitation, these observations suggest that important long-term safety risks are associated with the very low-protein diet among patients with advanced CKD.
+
+Our recommendation varies somewhat from the 2020 National Kidney Foundation KDOQI guidelines, which suggest a low-protein diet (0.55 to 0.6 g/kg/day) or very low-protein diet (0.28 to 0.43 g/kg/day with keto acid/amino acid analogs supplementation) in nondiabetic adults with stage 3 to 5 CKD who are metabolically stable [12,18,19].
+
+Patients with CKD who are on a protein-restricted diet should be carefully monitored, with close follow-up every three to six months for adequate caloric intake and evidence of protein malnutrition. We usually follow the body weight as well as serum albumin.
+
+Three conditions must be met to avoid malnutrition:
+
+●Adequate caloric intake must be maintained (by increasing polyunsaturated fats and by avoiding processed carbohydrates).
+
+●At least 60 percent of the ingested protein must be of high biologic value or contain a high percentage of essential amino acids (table 2) [5].
+
+●Stimulation of skeletal muscle protein breakdown should be prevented to limit net nitrogen loss. Metabolic acidosis should be treated since metabolic acidosis stimulates skeletal muscle protein breakdown [5,39] (see "Pathogenesis, consequences, and treatment of metabolic acidosis in chronic kidney disease"). A protein-restricted diet may, of itself, help to prevent metabolic acidosis. A post-hoc analysis of the MDRD study showed that a reduction in protein intake resulted in increased serum CO2 after one year of follow-up [40].
+
+Patients with nephrotic syndrome — We do not restrict protein intake among patients with nephrotic syndrome. The safety of a low-protein diet in nephrotic syndrome is uncertain. In some experimental models of nephrotic syndrome, the institution of a low-protein diet diminished hepatic albumin synthesis, which suggests protein deficiency [41,42]. However, in the same study, a low-protein diet also decreased protein excretion, presumably due to a fall in intraglomerular pressure. The net effect of these opposing factors was no change in the plasma albumin concentration [41,42]. Overall, studies have not demonstrated conclusive evidence of malnutrition with protein restriction in moderately nephrotic animals [43].
+
+One study examined this issue in five stable patients with nephrotic syndrome [44]. Despite moderate proteinuria that averaged 7.2 g/day, nitrogen balance was maintained on a diet that provided 0.8 g/kg/day of protein plus 1 g of protein for each gram of proteinuria and 35 kcal/kg/day. Positive nitrogen balance was maintained by the inhibition of amino acid oxidation and protein degradation and by stimulation of protein synthesis during feeding.
+
+These data suggest that protein restriction can be safely implemented in patients with moderate proteinuria, providing adequate caloric intake is maintained. However, these data do not define the minimum safe protein intake, nor do they prove that supplementing protein intake for the degree of proteinuria is necessary. In addition, the safety of protein restriction in patients with massive proteinuria (>15 g/day) or concurrent catabolic states (eg, due to corticosteroids or systemic lupus erythematosus) is uncertain, even with adequate caloric intake.
+
+Source of protein intake — A diet rich in protein from plant sources may be beneficial among CKD patients. Observational data suggest that such a diet may reduce proteinuria [45-47], lower the incidence and slow the progression of CKD [47-54], decrease the production of uremic toxins [55-60], lower phosphorus intake, lower the endogenous production of acid [50,51,61,62], and potentially decrease mortality risk [63-65]. (See "Pathogenesis, consequences, and treatment of metabolic acidosis in chronic kidney disease", section on 'Choice of therapy'.)
+
+A randomized trial compared a very low plant-based protein diet (0.3 g/kg/day) supplemented with ketoanalogues (KD) with a mixed-source (plant- and animal-based) low-protein diet (0.6 g/kg/day) among 207 patients with a stable eGFR <30 mL/min/1.73 m2 [49]. The median achieved protein intake was 0.29 and 0.59 g/kg/day in the KD and low-protein diet groups, respectively. At 18 months of follow-up, compared with the low-protein diet group, fewer patients in the KD group reached the composite endpoint of >50 percent reduction in eGFR or initiation of kidney replacement therapy (KRT; 42 versus 13 percent, respectively). Compared with the low-protein diet group, fewer patients in the KD group required KRT (30 versus 11 percent).
+
+However, caution is warranted in interpreting these results. While there were no differences between groups in anthropometric or biochemical parameters of nutrition during the duration of this study, in the long-term follow-up of the MDRD study, there was increased mortality among those randomized to a very low-protein diet (0.28 g/kg/day supplemented with a mixture of essential keto acids and amino acids) compared with a low-protein diet (0.58 g/kg/day) [10] (see 'Non-nephrotic patients' above). Long-term studies of very low plant protein diets that examine mortality as a predefined outcome are warranted.
+
+Concerns have also been raised about delayed registration of this trial in the public trials registry until after enrollment of some participants.
+
+Studies that compare protein sources but maintain comparable levels of moderate protein intake (0.6 to 0.8 g/day) are required before a recommendation could be made for a primarily plant-based source of dietary protein.
+
+SALT INTAKE
+
+Salt is nutritionally equivalent to sodium chloride: 1 g salt of contains 0.4 g (17 mEq) of Na ion. Understanding these units is important for making dietary recommendations to patients.
+
+Among selected CKD patients with estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m2 who have hypertension, volume overload, or increased protein excretion, we suggest a sodium intake of <2 g/day (5 g/day of salt).
+
+The approach for patients with reduced eGFR who do NOT have hypertension, volume overload, or increased protein excretion is not clear. For most patients, we generally advise a mild sodium restriction of 2.3 g/day (5.75 g/day of salt [NaCl]). An exception is the occasional CKD patient who wastes sodium.
+
+We suggest not reducing sodium to <1500 mg/day (ie, salt <3 g/day). We agree with the conclusion of the US Centers for Disease Control and Prevention-commissioned Institute of Medicine Committee that there is insufficient evidence to recommend sodium restriction to ≤1500 mg/day in high-risk groups (ie, including CKD patients) [4].
+
+In addition, very low sodium intake has been associated with increased mortality. In the Prospective Urban Rural Epidemiology (PURE) study of 101,945 people in 17 countries, compared with the reference range of estimated sodium excretion of 4 to 5.99 g/day, an estimated sodium excretion that was below 3 g/day was associated with an increased risk of the composite outcome of death or cardiovascular event (odds ratio [OR] 1.27, 95% CI 1.12-1.44). In the same study, very high Na intake above 6 g/day was associated with 15 percent higher risk of death or cardiovascular event [66].
+
+It is unlikely that a large, randomized, controlled trial to conclusively establish the effects of Na intake on cardiovascular mortality and all-cause mortality will ever be conducted.
+
+Our recommendation for a modest sodium restriction is consistent with the 2012 Kidney Disease: Improving Global Outcomes (KDIGO) guidelines for the management of CKD [11], the National Kidney Foundation Kidney Disease Outcomes Quality Initiative (KDOQI) 2020 guidelines [12], and the U.S. Department of Agriculture and U.S. Department of Health and Human Services Dietary Guidelines for Americans 2020-2025 [67].
+
+Among CKD patients, the benefits of salt restriction might include the following:
+
+●Lower blood pressure (BP)
+
+●Slower progression to end-stage kidney disease (ESKD)
+
+●Improved cardiovascular outcomes
+
+These are discussed separately below.
+
+Hypertension — Large, long-term, randomized, controlled trials that assess the efficacy and safety of salt restriction in the CKD population are largely absent. The guidelines for dietary sodium intake in CKD, therefore, are based on expert opinion, observational studies, and extrapolation from general population studies. Studies overall suggest that salt restriction reduces the risk of hypertension in the general population. (See "Salt intake and hypertension".)
+
+A moderate salt restriction also reduces the risk of hypertension among CKD patients in small studies [68-72]. A four-week randomized crossover of dietary sodium restriction (target <2 g/day versus usual diet) in stage 3 to 4 CKD resulted in a significant reduction in systolic BP (-10.8 mmHg; 95% CI -17 to -4.6) [70]. (See "Overview of hypertension in acute and chronic kidney disease".)
+
+However, in a six-month trial comparing self-management support plus standard care with standard care alone, differences in sodium excretion rates and ambulatory blood pressures between the groups at six months were not different, illustrating the difficulties in sustained sodium restriction [72].
+
+CKD progression — Very few studies have examined the effect of salt restriction on CKD progression. The limited available data suggest both direct and indirect benefit of sodium restriction on CKD outcomes, mostly regarding its synergistic effect to lower proteinuria in the setting of renin-angiotensin system inhibition:
+
+●A post-hoc analysis of the first and second Ramipril Efficacy in Nephropathy (REIN) trials suggested a potential benefit of sodium restriction [73]. During four years of follow-up, compared with those with a low-salt intake (<100 mEq/g urinary sodium/creatinine excretion), the risk of progression to ESKD was greater in those with high-salt intake (≥200 mEq/g urinary excretion; 6.1 versus 18.2 per 100 patient-years). A 100 mEq/g higher urinary sodium/creatinine excretion ratio was associated with a 40 percent increase in the risk of ESKD regardless of baseline proteinuria and other risk factors. However, the association between salt intake and the risk of ESKD disappeared after adjustment for changes in proteinuria, suggesting that, in CKD patients treated by angiotensin-converting enzyme (ACE) inhibitors, the increase in proteinuria is a primary mechanism by which high-sodium intake accelerates the progression of CKD toward ESKD.
+
+●In a post-hoc analysis of the HALT-PKD trial, lower urinary sodium excretion was significantly associated with decreased kidney growth in those with eGFR >60 mL/min/1.73 m2. In polycystic kidney disease (PKD) patients with eGFR 25 to 60 mL/min/1.73 m2, urinary sodium excretion was significantly associated with increased risk for the composite endpoint of 50 percent reduction in eGFR, ESKD, or death (HR 1.08 for each 18 mEq urinary sodium excretion) and faster eGFR decline rate (-0.09 mL/min/1.73 m2/year for each 18 mEq urinary sodium excretion) [74]. Sodium restriction, therefore, is beneficial in the management of autosomal dominant PKD.
+
+●In the Chronic Renal Insufficiency Cohort (CRIC) study, compared with the lowest quartile of urinary sodium excretion (<117 mmol/24 hours), hazard ratios for the highest quartile of urinary sodium excretion (>195 mmol/24 hours) were 1.54 (95% CI, 1.23-1.92) for CKD progression, 1.45 (95% CI, 1.08-1.95) for all-cause mortality, and 1.43 (95% CI, 1.18-1.73) for the composite outcome of CKD progression and all-cause mortality [75].
+
+However, despite these benefits, there are concerns that excessive lowering of sodium intake may adversely affect neurohormonal balance and lipids and generate proinflammatory milieu, which could enhance progression of disease among CKD patients [76]. A meta-analysis suggested that salt restriction increases plasma levels of renin, aldosterone, catecholamines, and lipids [77]. When salt intake is reduced, a fall in extravascular volume stimulates the renin-angiotensin-aldosterone axis and sympathetic system. These physiologic compensatory responses are more pronounced with sudden and large reduction in salt intake but become minimal with chronic, modest salt reduction. Nonetheless, it has been argued that these are only short-term responses, and, in the longer term, modest salt restriction over weeks results in only small increases in plasma levels of renin, aldosterone, and catecholamines, without any effect on the lipids [78].
+
+Cardiovascular disease — The effect of salt restriction on cardiovascular outcomes has been difficult to ascertain definitively due to feasibility and logistic challenges. Evaluating cardiovascular morbidity and mortality requires a large sample size with extended follow-up. In addition, participants randomized to low-salt intake typically return to regular salt intake once the trial intervention phase ends, further limiting the ability to accurately assess the effect of long-term salt restriction.
+
+Suggestive evidence for the cardiovascular protective effect of salt restriction in the general population is provided by the following:
+
+●A meta-analysis of observational studies suggests that a 5 g/day higher salt intake is associated with a 23 percent increase in stroke risk and a 17 percent increase in cardiovascular disease (CVD) [79].
+
+●An observational 10- to 15-year follow-up study of Trials of Hypertension Prevention (TOHP I and II) demonstrated that net sodium restriction of 33 to 44 mmol/day (0.75 to 1 g/day) in the intervention arm resulted in a 30 percent reduction lower cardiovascular event after adjustment for baseline sodium excretion and weight [80].
+
+●In an analysis of the CRIC study of CKD participants, adjusted hazard ratios of the highest as compared with the lowest quartile of sodium intake were 1.36 (95% CI, 1.09-1.70) for composite CVD events, 1.34 (95% CI, 1.03-1.74) for heart failure, and 1.81 (95% CI, 1.08-3.02) for stroke [81].
+
+POTASSIUM INTAKE
+
+Dietary potassium intake should be individualized based on the serum potassium. In general, potassium restriction is not required until the estimated glomerular filtration rate (eGFR) decreases to <30 mL/min/1.73 m2. However, there is variability between patients, and some patients with higher eGFRs and who are on angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) will require potassium restriction to maintain a normal serum potassium. When used for patients with elevated serum potassium levels, potassium restriction should focus on limiting the intake of lower-nutritional value foods such as potato chips, fruit juices, and chocolate rather than healthy food choices such as fruits and vegetables [82-84].  
+
+Our individualized approach towards potassium restriction among patients with CKD is based upon the beneficial effects of potassium-rich dietary patterns observed in the general population and in patients with CKD. Consumption of a potassium-rich diet is associated with a lower risk of incident CKD in patients with normal kidney function and a slower decline in eGFR among patients with CKD [47,85]. Other benefits of high dietary potassium intake in the general population include a reduction in systolic BP [86-88], a lower risk of stroke, and higher bone mineral density [89-92]. An analysis of the Chronic Renal Insufficiency Cohort (CRIC) study reported that participants with the highest compared with lowest adherence tertile to potassium-rich dietary patterns, including the alternate Mediterranean and the Dietary Approaches to Stop Hypertension (DASH) dietary patterns, had significantly lower risk of CKD progression and 24 percent to 31 percent lower risk for all-cause mortality [2].
+
+However, not all studies have reported beneficial effects of potassium-rich diets in patients with CKD [75,93].
+
+CALCIUM INTAKE
+
+We limit total calcium intake (both dietary and medication sources) to approximately 1000 mg/day. However, some clinicians target a total calcium intake (both dietary and medication sources) ≤1500 mg/day. The Kidney Disease Outcomes Quality Initiative (KDOQI) guideline (2020) suggests limiting total calcium intake (both dietary and medication sources) to 800 to 1000 mg/day for adults with CKD stage 3 to 4 not taking active vitamin D analogs [12,94]. The Dietary Guidelines for Americans 2020-2025 recommend a dietary calcium goal of 1000 mg/day in adults [67].
+
+Calcium supplementation of 2 to 4 g/day results in suppression of parathyroid hormone levels in advanced CKD [95]. Administration of calcium-containing phosphorus binders in hemodialysis patients, however, results in increased vascular calcification [96], raising concerns about the safety of higher calcium intake in predialysis patients.
+
+There are no randomized, controlled trials that established the safe levels of calcium intake in predialysis CKD.
+
+However, in a calcium balance study, both normal individuals and patients with late-stage 3 and stage 4 CKD were in slightly negative to neutral calcium balance on an 800 mg calcium diet [97]. Normal individuals were in modest positive calcium balance on the 2000 mg diet, while patients with CKD on the same diet were in marked positive calcium balance. Furthermore, increased calcium intake significantly decreased 1,25-dihydroxy-vitamin D and intact parathyroid hormone levels but did not alter the serum calcium concentration.
+
+These data suggest that a diet of 2000 mg/day of calcium in CKD patients might result in a positive calcium balance, with the extra calcium deposited in tissues, leading to metastatic calcification.
+
+PHOSPHORUS INTAKE
+
+We do not restrict dietary phosphorus intake in CKD patients who have normal levels of serum phosphorus and parathyroid hormone (PTH). Among patients with CKD and elevated levels of serum phosphorus or PTH, we restrict dietary phosphorus intake to 0.8 to 1 g/day, although it is not clear that dietary restriction significantly alters the serum phosphate concentration among nondialysis CKD patients [11,94,98-100]. The management of hyperphosphatemia and secondary hyperparathyroidism is discussed elsewhere. (See "Management of hyperphosphatemia in adults with chronic kidney disease", section on 'Dietary phosphorus restriction in all patients' and "Management of secondary hyperparathyroidism in adult patients with nondialysis chronic kidney disease", section on 'Initial therapy'.) 
+
+The average phosphorus intake in the United States population is 1300 mg/day. For healthy adults, Dietary Guidelines for Americans 2020-2025 recommend intake of 700 mg/day of phosphorus [67].
+
+Dietary phosphate load is closely related to protein content. As noted above, using plant sources of protein may be beneficial for controlling phosphorus load (see 'Source of protein intake' above). Plant sources have the lowest bioavailability of phosphorus, with grains yielding only 50 percent bioavailability of phosphorus [101].
+
+Avoidance of highly processed foods also helps control phosphorus load:
+
+●Preservatives used in processed and precooked meals are rich in phosphate. In a feeding study that included 11 individuals with nondialysis CKD, participants consumed a diet rich in phosphorus additives for two weeks and then a diet without such additives but with identical energy and nutrient content for six weeks [102]. The diet without processed food additives led to a 30 percent decrease in 24-hour urine phosphorus excretion, a 25 percent decrease in plasma fibroblast growth factor 23 (FGF23), and a 20 percent decrease in plasma parathyroid hormone (PTH).  
+
+●The phosphate in processed foods (ie, inorganic phosphate) is more bioavailable than the phosphate in unprocessed foods (ie, organic phosphate). Compared with inorganic phosphate, organic phosphate is poorly absorbed since it must be hydrolyzed enzymatically in the intestine before uptake.
+
+Higher serum phosphorus concentrations have been associated with increased cardiovascular risk, both in the general and CKD populations [103-105]. The association between serum phosphorus levels and cardiovascular risk is independent of eGFR and other cardiovascular disease (CVD) risk factors, even at modestly increased phosphorus concentrations.
+
+A large meta-analysis of 14 studies showed an 18 percent risk of death for every 1 mg/dL increase in serum phosphorus (95% CI 1.12-1.25) in the CKD population [105].
+
+Possible mechanisms underlying the increased cardiovascular risk include accelerated vascular calcification and arterial stiffness and induction of fibroblast growth factor (FGF) 23, which has been implicated in the development of left ventricular hypertrophy [106]. FGF-23 is also associated with increased risk of coronary heart disease, heart failure, and cardiovascular mortality independent of traditional cardiovascular risk factors and kidney function [107].
+
+However, unlike the dialysis population, in nondialysis CKD patients with eGFR <60 mL/min/1.73 m2, the effect of dietary phosphorus restriction on the serum level is limited.
+
+●A small, crossover study in eight patients with a mean eGFR of 32 mL/min/1.73 m2 demonstrated that allocation to a vegetarian protein source to reduce absorbable phosphorus led to only a mild reduction in serum phosphorus (0.3 mg/dL) [61].
+
+●Several randomized trials, including the Modification of Diet in Renal Disease (MDRD) study, did not show statistically significant reduction in the serum phosphorus concentration despite significant reduction in urinary phosphorus excretion by the use of oral phosphorus binders [108,109] or protein restriction [110].
+
+This may relate to the fact that the studies relied on the morning fasting sample for phosphorus measurement, which may be less associated with dietary phosphorus absorption than afternoon measurements [111]. Morning fasting levels remain stable despite a wide fluctuation in dietary phosphorus absorption, making the morning value an insensitive marker for phosphorus overload.
+
+It is possible that dietary protein restriction or use of phosphorus binders may reduce afternoon serum phosphorus levels; it remains unknown in the absence of randomized trials, however, if reduction of afternoon phosphorus levels translates into improved cardiovascular outcomes.
+
+●In an analysis of the National Health and Nutrition Examination Survey (NHANES) data, higher dietary phosphorus intake was not associated with mortality risk in moderate CKD [112].
+
+Although the available literature does not provide evidence that dietary phosphorus restriction results in serum phosphorus level reduction in nondialysis CKD populations, the association between increased serum phosphorus levels and adverse cardiovascular outcomes remains robust.
+
+Randomized trials are needed to establish the role of dietary phosphorus restriction in nondialysis CKD patients with eGFR <60 mL/min/1.73 m2.
+
+CALORIC INTAKE
+
+We suggest that patients with an estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m2 who are not undergoing maintenance dialysis consume 25 to 35 kcal/kg/day [94].
+
+Fat should be restricted to <30 percent of daily energy intake, with saturated fat limited to <10 percent energy.
+
+Among CKD patients, obesity is associated with the development and progression of cardiovascular events [113] and mortality [114].
+
+Observational studies suggest that higher body mass index (BMI) [115-117] and central adiposity [118,119] are also independent risk factors for progression of CKD and incidence of end-stage kidney disease (ESKD) [114,120,121].
+
+The mechanism by which obesity may increase CKD progression is not known. Hemodynamic abnormalities observed in obese individuals include glomerular hyperfiltration [122], increased renal venous pressure [123], and glomerular hypertrophy [124]. Diets that contain excessive fat and carbohydrates are associated with accelerated inflammatory process and oxidative stress in the endothelium, leading to atherosclerosis [125].
+
+Weight loss leads to improved blood pressure (BP) control [126,127] and the reduction of hyperfiltration and proteinuria [128,129]. Since hypertension, hyperfiltration, and proteinuria are all risk factors for progression of CKD, this suggests that weight loss in obese CKD patients may slow the progression of kidney disease. Further data to support restriction of excess caloric intake in the CKD population include:
+
+●High sugar intake and saturated fat intake are associated with albuminuria in cross-sectional studies [130,131]. In one prospective cohort study of Black Americans, a higher consumption of sugar-sweetened beverages was associated with an increased risk of incident CKD [132].
+
+●In the Nurse's Health Study, a Western dietary pattern characterized by higher intake of processed and red meats, refined grains, sweets, and dessert was associated with greater odds of moderately increased albuminuria (formerly called "microalbuminuria"; odds ratio [OR] 2.17, 95% CI 1.18-3.66) and rapid eGFR decline of ≥3 mL/min/1.73 m2 per year (OR 1.77, 95% CI 1.03-3.03) [133]. By contrast, also in the Nurses' Health Study, a Dietary Approaches to Stop Hypertension (DASH)-style diet (higher intake of fruits, vegetables, legumes, fish, poultry, and whole grains) was not associated with moderately increased albuminuria, but was associated with a lower risk of rapid eGFR decline (OR 0.55, 95% CI 0.38-0.80) [134]. In the same cohort, consumption of two or more servings per day of artificially sweetened soda was independently associated with a twofold higher odds for eGFR decline.
+
+●In another prospective observational study using the dietary data in the Chronic Renal Insufficiency Cohort (CRIC), greater adherence to several healthy dietary patterns (such as the alternate Mediterranean diet and the DASH diet) was associated with lower risk for CKD progression and all-cause mortality among people with CKD [2].
+
+●A prospective cohort study spanning 15 years demonstrated that doubling of relative energy intake, not BMI, is associated with an increased mortality risk of 48 percent in those with eGFR <60 mL/min/1.73 m2 [135].
+
+Although data from randomized interventional trials are lacking, avoiding excessive caloric intake might reduce the risk of kidney disease progression and cardiovascular mortality in CKD individuals.
+
+RECOMMENDED FIBER INTAKE
+
+The recommended daily dietary fiber intake for CKD patients with estimated glomerular filtration rate (eGFR) ≤60 mL/min/1.73 m2 is approximately 14 g per 1000 calories, which is the same as for the general population.
+
+Dietary fiber is the nondigestible form of carbohydrates and lignin. Some of the best sources of dietary fiber are beans and peas but also include nuts, fruits, and whole grains. The US Department of Agriculture and US Department of Health and Human Services, in their updated Dietary Guidelines for Americans 2020-2025, has recommended a daily intake of approximately 14 g per 1000 calories, which translates to approximately 25 g to 34 g per day for most adults.
+
+The rationale for the above dietary fiber intake recommendation is based on numerous clinical studies to demonstrate protective effects against cardiovascular disease (CVD), diabetes mellitus, cancer, and all-cause mortality. (See "Healthy diet in adults".)
+
+While there are limited data, dietary fiber intake appears to provide similar, if not greater, benefits in the CKD population:
+
+●An analysis of National Health and Nutrition Examination Survey (NHANES)-III data (including 14,543 participants and 5.8 percent with eGFR <60 mL/min/1.73 m2), showed that, for each 10 g/day higher total fiber intake, the odds of increased serum C-reactive protein was decreased by 38 percent in those with CKD and by 11 percent in those without kidney disease [136]. Furthermore, the dietary fiber intake was inversely correlated with mortality only in those with CKD, suggesting that fiber intake may be more important for individuals with CKD.
+
+●A six-week study of 13 CKD patients (mean eGFR of 30 mL/min/1.73 m2) demonstrated that the addition of fiber (23 g/day) was associated with a significant reduction in serum creatinine by a mean of 0.24 mg/dL (p<0.05) from the baseline value [137]. The change in eGFR corresponded to an increase by approximately 3 mL/min/1.73 m2 from the baseline.
+
+Based on the available data and extrapolating from the general population, therefore, fiber intake is likely protective against CKD progression and mortality, and every effort should be made to encourage higher fiber intake in the CKD population. Because potassium is high in fruits and vegetables, many CKD and dialysis patients are counseled against taking these. This may further compromise dietary fiber intake in the CKD population. However, fruits and vegetables that are low in potassium might be consumed in moderation.
+
+
+Foods high in potassium:
+Highest content (>25 mEq/100 g)
+Dried figs
+Molasses
+Seaweed
+Very high content (>12.5 mEq/100 g)
+Dried fruits (dates, prunes)
+Nuts
+Avocados
+Bran cereals
+Wheat germ
+Lima beans
+High content (>6.2 mEq/100 g)
+Vegetables
+Spinach
+Tomatoes
+Broccoli
+Winter squash
+Beets
+Carrots
+Cauliflower
+Potatoes
+Fruits
+Bananas
+Cantaloupe
+Kiwis
+Oranges
+Mangos
+
+Sample lower-potassium diet
+Food	Calories	Sodium content (mg)	Potassium content (mg)
+Breakfast
+English muffin, white	129	242	62
+Low-calorie, nonhydrogenated margarine, 2 teaspoons	58	65	4
+Puffed corn cereal (non-sweetened), 1.5 cups	135	247	45
+Eggs, 2 medium fresh	126	123	118
+Coffee, 1.25 cups	3	6	145
+Non-dairy, nonhydrogenated, fat-free coffee creamer, 1 ounce	20	3	0
+Snack
+Cheddar cheese (reduced fat), 1 ounce	49	270	19
+Apple, 1 medium	72	1	148
+Lunch
+White bread, 2 slices	108	234	44
+Turkey breast, 3 ounces	119	189	236
+Mayonnaise (low fat), 1 tablespoon	25	140	2
+Cheddar cheese (reduced fat), 1 ounce	49	270	19
+Egg, hard boiled	78	62	63
+Lettuce (iceberg; shredded), 1 cup	8	6	80
+Cucumber, peeled, 1/2 medium	12	2	137
+Water chestnuts, canned & drained, 5 pieces	17	5	54
+Salad dressing (Italian, low fat), 1 tablespoon	27	192	4
+Snack
+Clementine, 1	35	1	131
+Dinner
+Chicken breast (skin removed, baked with breadcrumb coating and no fat), 4 ounces	221	87	287
+Green beans, cooked, no salt added, 1 cup	60	46	184
+Low-fat, nonhydrogenated margarine, 1 teaspoon	29	33	2
+Rice, white, cooked in unsalted water, 1 cup after cooking	234	3	89
+Extra virgin olive oil, 2 teaspoons	40	0	0
+Snack
+Oatmeal cookies (reduced fat), 2 small	56	58	22
+TOTALS	1710	2285	1895
+
+Foods with lower levels of potassium
+Grains	Foods prepared with white flour (eg, pasta, bread), white rice
+Beverages	Non-dairy creamer, fruit punch, drink mixes (eg, Kool-Aid), tea (<2 cups or 16 ounces per day), coffee (<1 cup or 8 ounces per day)
+Sweets	Angel or yellow cake, pies without chocolate or high-potassium fruit, cookies without nuts or chocolate
+Fruits	Apples (1), apple juice, applesauce, apricots (canned), blackberries, blueberries, cherries, cranberries, fruit cocktail (drained), grapes, grape juice, grapefruit (½), mandarin oranges, peaches (½ fresh or ½ cup canned), pears (½ cup canned), pineapple and juice, plums (1 whole), raspberries, strawberries, tangerine (1 whole), watermelon (1 cup), lemons
+Vegetables	Alfalfa sprouts, asparagus (6 spears), green or wax beans, cabbage (cooked), carrots (cooked), cauliflower, celery (1 stalk), corn (½ fresh ear or ½ cup), cucumber, eggplant, kale, iceberg lettuce, mushrooms (fresh), okra, onions, parsley, green peas, green peppers, radish, rhubarb, water chestnuts (canned, drained), watercress, snow peas, spinach (raw, 1 cup), squash (yellow), zucchini, scallions, turnips, turnip greens
+Proteins	Chicken, turkey (3 ounces), tuna, eggs, sole, catfish, orange roughy, sea bass, imitation crab, shrimp (3 ounces), unsalted peanut butter (1 tablespoon)
+Dairy products	Cheddar or Swiss cheese (1 ounce), cottage cheese (½ cup)
+Nuts, seeds, and legumes	Macadamia nuts, pecans, cashews, walnuts, almonds, peanuts, sesame seeds, sunflower or pumpkin seeds, chia seeds, flax seeds (all 1 ounce)
+
+DASH diet: 
+What is the DASH diet?
+
+DASH stands for "dietary approaches to stop hypertension." It is an eating plan that can help lower blood pressure. It can also help prevent high blood pressure, which is called "hypertension." You don't need special foods or recipes to follow the DASH diet. It is more about eating certain types of foods in certain amounts.
+
+The DASH diet has lots of fruits and vegetables, whole grains, lean meats, healthy fats, and low-fat or fat-free dairy products (figure 1). It is low in saturated fats, trans fats, cholesterol, added sugars, and sodium (salt).
+
+The standard DASH diet limits sodium to no more than 2300 mg a day. Your doctor or nurse can talk to you about what your specific goals should be.
+
+Why do I need the DASH diet?
+
+The DASH diet can help you:
+
+●Lower your blood pressure and cholesterol
+
+●Lower your risk for cancer, heart disease, heart attack, and stroke. It might also lower your risk for heart failure, kidney stones, and diabetes.
+
+●Lose weight or keep a healthy weight
+
+What can I eat and drink on the DASH diet?
+
+Below are some guidelines and examples for your daily and weekly nutrition goals. These are based on a 2000-calorie-per-day eating plan.
+
+Daily goals:
+
+●Grains – Try to eat 6 to 8 servings of whole-grain, high-fiber foods each day. Examples of a serving include 1 slice of bread, 1 ounce (30 grams) of dry cereal, or 1/2 cup (120 grams) of cooked cereal, pasta, or brown rice.
+
+●Fruits – Try to eat 4 to 5 servings of fruit each day. Examples of a serving include 1 medium fruit or 1/2 cup (75 grams) of fresh, frozen, or canned fruit. Try to eat different kinds and colors. Frozen or canned fruit should not have added sugar. Look for frozen or canned fruits with 100 percent fruit juice or water.
+
+●Vegetables – Try to eat 4 to 5 servings of vegetables each day. Examples of a serving include 1 cup (40 grams) of leafy greens or 1/2 cup (75 grams) of fresh or cooked vegetables. Try to pick many kinds and colors. If you buy canned vegetables, look for "low sodium" or "salt free." Buy plain, frozen vegetables to avoid added fat and sodium.
+
+●Dairy – Try to eat 2 to 3 servings of fat-free or low-fat milk products each day. Examples of a serving include 1 cup (240 mL) of milk or yogurt or 1.5 ounces (45 grams) of cheese.
+
+●Lean meats, poultry, and seafood – Try to eat 6 or fewer servings of lean meat, poultry, and seafood each day. Examples of a serving include 1 egg or 1 ounce (30 grams) of cooked meat, poultry, or fish. Try to choose more low-fat or lean meats like chicken, fish, or turkey. Eat less red meat.
+
+●Fats and oils – Try to eat 2 to 3 servings of fats and oils each day. Examples of a serving include 1 teaspoon (5 mL) of soft margarine or vegetable oil, or 1 tablespoon (18 grams) of mayonnaise. Eat healthy fats like those found in fish, nuts, and avocados. Try using olive oil or vegetable oils such as canola oil. You can also try corn, safflower, sunflower, or soybean oils. Use low-sodium and low-fat salad dressing and mayonnaise.
+
+Weekly goals:
+
+●Nuts, seeds, and legumes (dry beans and peas) – Try to eat 4 to 5 servings each week. Examples of a serving include 1/3 cup (45 grams) of nuts, 2 tablespoons (50 grams) of nut butter or seeds, or 1/2 cup (75 grams) of cooked legumes. Try almonds and walnuts, sunflower seeds, peanut or other nut butters, soybeans, lentils, kidney beans, and split peas.
+
+●Sweets – Try to eat fewer than 5 servings each week. Examples of a serving include 1 tablespoon (14 grams) of sugar or jelly, or 1/2 cup (120 grams) of gelatin. Choose low-fat and trans fat-free desserts. These include fruit-flavored gelatin, sorbet, jellybeans, graham crackers, animal crackers, low-fat fig bars, and ginger snaps. Eat fruit to satisfy the desire for sweets.
+
+To add flavor, use pepper, herbs, spices, vinegar, or lemon or lime juices. Choose low-sodium or salt-free products whenever you can. This is especially important for foods like broths, soups, or soy sauce.
+
+What foods and drinks should I avoid on the DASH diet?
+
+●Grains to avoid – Salted breads, rolls, crackers, quick breads, self-rising flours, biscuit mixes, regular breadcrumbs, instant hot cereals, commercially prepared rice, pasta, stuffing mixes.
+
+●Fruits and vegetables to avoid – Store-bought prepared potatoes and vegetable mixes, regular canned vegetables and juices, vegetables frozen with sauce, pickled vegetables, processed fruits with salt or sodium.
+
+●Dairy products to avoid – Whole milk, malted milk, chocolate milk, buttermilk, full-fat cheese, ice cream.
+
+●Meats to avoid – Smoked, cured, salted, or canned fish such as sardines or anchovies. High-fat cuts of meat like beef, lamb, pork, bacon and sausage, and chicken with skin.
+
+●Fats and oils to avoid – Eat fewer solid fats like butter, lard, and hard stick margarine. Eat less saturated fat, trans fat, and total fat.
+
+●Condiments and snacks to avoid – Salted and canned peas, beans, and olives. Salted snack foods, fried foods, soda, other sweetened drinks.
+
+●Sweets to avoid – High-fat baked goods such as muffins, donuts, pastries, and commercial baked goods. Candy bars.
+
+●Alcohol – If you choose to drink alcohol, limit the amount. Most doctors recommend limiting alcohol to no more than 1 drink a day (for females) or 2 drinks a day (for males).
+
+What else should I know?
+
+●Get regular physical activity to make this diet help you even more. Even gentle forms of activity, like walking, are good for your health.
+
+●Try baking or broiling instead of frying foods.
+
+●Write down what you eat. This helps you track what you eat each week.
+
+●When you go to the grocery store, have a list or a meal plan. Don't shop when you are hungry, since this might lead you to buy more unhealthy foods.
+
+●Read food labels with care (figure 2). They show you how much is in a serving. The amount is given as a percentage of the total amount you need each day. Reading labels helps you make healthy food choices.
+
+Lifestyle changes for high blood pressure (hypertension):
+What does my lifestyle have to do with my blood pressure?
+
+What you do and what you eat have a big effect on your blood pressure and your overall health. Following the right lifestyle can:
+
+●Lower your blood pressure, or keep you from getting high blood pressure in the first place
+
+●Reduce your need for blood pressure medicines
+
+●Make medicines for high blood pressure work better, if you take them
+
+●Lower the chances you'll have a heart attack or stroke, or get kidney disease
+
+Which lifestyle choices will help lower my blood pressure?
+
+You should:
+
+●Eat a diet rich in fruits, vegetables, and low-fat dairy products, and low in meats, sweets, and refined grains.
+
+●Eat less salt (sodium).
+
+●Do something active for at least 30 minutes a day on most days of the week.
+
+●Lose weight (if you have excess body weight).
+
+●Limit or avoid alcohol.
+
+If you have high blood pressure, it's also very important to quit smoking (if you smoke). Quitting smoking might not bring your blood pressure down. But it will lower the chances you'll have a heart attack or stroke, and it will help you feel better and live longer.
+
+Start low, and go slow
+
+The changes listed above might sound like a lot, but don't worry. You do not have to change everything at once. The key to improving your lifestyle is to "start low, and go slow." Choose 1 small, specific thing to change, and try doing it for a while. If it works for you, keep doing it until it becomes a habit. If it doesn't, don't give up. Choose something else to change, and see how that goes.
+
+Let's say, for example, you want to improve your diet. If you're the type of person who eats cheeseburgers and French fries often, it can be very difficult to switch to just eating salads every day. When people try to make changes like that, they often fail. Then, they feel frustrated and tend to give up. So instead of trying to change everything about your diet in 1 day, change 1 or 2 small things and give yourself time to get used to those changes. For instance, keep the cheeseburger but substitute a salad for the French fries. Or eat the same things, but cut your portions in half.
+
+As you find things you can change and stick with, keep adding new changes. In time, you will see you can actually change a lot. You just have to get used to the changes slowly.
+
+Improve your diet
+
+There is no single diet that is right for everyone. But in general, a healthy diet can include:
+
+●Lots of fruits, vegetables, and whole grains
+
+●Some beans, peas, lentils, chickpeas, and similar foods
+
+●Some nuts, such as walnuts, almonds, and peanuts
+
+●Fat-free or low-fat milk and milk products
+
+●Some fish
+
+To have a healthy diet, it's also important to limit or avoid sugar, sweets, meats, and refined grains. (Refined grains are found in white bread, white rice, most forms of pasta, and most packaged "snack" foods.)
+
+Reduce salt
+
+Many people think eating a low-sodium diet means avoiding the salt shaker and not adding salt when cooking. But not adding salt at the table or when you cook only helps a little. Almost all the sodium you eat is already in the food you buy at the grocery store or at restaurants (figure 1).
+
+The most important thing you can do to cut down on sodium is to eat less processed food. This means avoiding most foods sold in cans, boxes, jars, and bags. You should also eat in restaurants less often.
+
+To reduce how much sodium you eat, buy fresh or fresh-frozen fruits, vegetables, and meats. (Fresh-frozen foods have nothing added to them before freezing.) Then, you can make meals at home, from scratch, with these ingredients.
+
+As with the other changes, do not try to cut out salt all at once. Instead, choose 1 or 2 foods that have a lot of sodium and replace them with low-sodium choices. When you get used to those low-sodium options, find another food or 2 to change. Then, keep going, until all the foods you eat are sodium free or low in sodium.
+
+Become more active
+
+If you want to be more active, you do not have to go to the gym or get all sweaty. It is possible to increase your activity level while doing everyday things you enjoy. You might try walking, gardening, and dancing. As with all the other changes, the key is not to do too much too fast. If you don't do any activity now, start by walking for just a few minutes every other day. Do that for a few weeks. If you stick with it, try doing it for longer. But if you find you don't like walking, try a different activity.
+
+Lose weight
+
+If you have excess body weight and would like to lose weight, start by talking to your doctor or nurse. They can help you make a plan to do this in a healthy way.
+
+The best weight loss plans help you have a healthy view of eating and exercise. With a good weight loss plan, many people can lose weight and keep it off.
+
+In some situations, doctors recommend prescription medicine or surgery. Even with these options, doctors also recommend making lifestyle changes. Talk to your doctor about which options are best for you.
+
+Limit or avoid alcohol
+
+If you are female, do not have more than 1 "standard drink" of alcohol a day. If you are male, do not have more than 2.
+
+A "standard drink" is:
+
+●A can or bottle of 12 ounces of beer
+
+●A glass of 5 ounces of wine
+
+●A shot of 1.5 ounces of hard alcohol or liquor
+
+Where should I start?
+
+If you want to improve your lifestyle, start by making the changes you think would be easiest for you. If you used to exercise and just got out of the habit, maybe it would be easy for you to start exercising again. Or if you enjoy cooking meals from scratch, maybe the first thing you try is eating home-cooked meals that are low in sodium.
+
+Whatever you try first, choose specific, realistic goals, and give yourself a deadline. For example, do not decide you are going to "exercise more." Instead, decide you are going to walk for 10 minutes on Monday, Wednesday, and Friday, and you are going to do this for the next 2 weeks.
+
+When lifestyle changes are too general, people have a hard time following through.
+
+
